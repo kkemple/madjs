@@ -1,0 +1,19 @@
+{
+    "master": {
+        "awscloudformation": {
+            "AuthRoleName": "madjs-master-20190805192316-authRole",
+            "UnauthRoleArn": "arn:aws:iam::781155362072:role/madjs-master-20190805192316-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::781155362072:role/madjs-master-20190805192316-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "madjs-master-20190805192316-deployment",
+            "UnauthRoleName": "madjs-master-20190805192316-unauthRole",
+            "StackName": "madjs-master-20190805192316",
+            "StackId": "arn:aws:cloudformation:us-east-1:781155362072:stack/madjs-master-20190805192316/62693490-b7e0-11e9-b516-0a583df6bf38"
+        },
+        "categories": {
+            "auth": {
+                "madjsde882a25": {}
+            }
+        }
+    }
+}

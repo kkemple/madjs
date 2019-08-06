@@ -1,0 +1,9 @@
+{
+	"auth": {
+		"madjsde882a25": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}
